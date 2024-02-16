@@ -9,7 +9,7 @@ alert('обожаю')
  else if (no === coffee) {
     alert(' da  blin pojalusta sdelay uje kapuch  :( ) ')
  }
- alert('if (coffee empty. Refill coffee = {coffeeDrink} if (Ivan has done new coffee he molodes )))')
+ alert('if (coffee empty. Refill coffee = {coffeeDrink} if (Ivan has made a new cup of coffee he molodes )))')
     
     
  
