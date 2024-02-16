@@ -7,10 +7,10 @@
 alert('обожаю')
  } 
  else if (no === coffee) {
-    alert(' da  blin pojalusta sdelay uje kapuch  :( ) ')
+    alert(' da blin pojalusta sdelay uje kapuch  :( ) ')
+ }else {
+ confirm('if (coffee empty. Refill coffee = {coffeeDrink} if (Ivan has made a new cup of coffee he molodes )))')
  }
- alert('if (coffee empty. Refill coffee = {coffeeDrink} if (Ivan has made a new cup of coffee he molodes )))')
-    
     
  
 
